@@ -1,0 +1,1 @@
+I am a research mathematical statistician at the USDA Forest Service. My work primarily involves statistical inference for large-scale forest resource monitoring. I currently work at the Pacific Northwest Research Station in Olympia, Washington.
